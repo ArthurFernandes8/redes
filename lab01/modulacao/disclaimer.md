@@ -1,0 +1,1 @@
+Utilizei ferramenta de IA (chatGPT) para geração de código da etapa 3 (presente no arquivo etapa3.py) que pudesse analisar uma faixa de SNR e detectar os erros. Além disso, a ferramenta também criou o código que gerou o gráfico presente no relatório da etapa 3 enviado no forms. Toda a análise do gráfico e as devidas conclusões foi feita sem uso de IA.
